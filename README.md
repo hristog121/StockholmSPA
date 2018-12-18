@@ -1,2 +1,2 @@
-# Stockholm SPA - Kumpan TASK
-
+# Google Maps API 
+Task for KUMPAN - Stockholm

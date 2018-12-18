@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate-react-app",
+  "name": "08-SPA",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Hristo Georgiev",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -25,7 +25,7 @@
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
     "firebase": "4.2.0",
-    "google-map-react": "^1.1.1",
+    "google-maps-react": "^2.0.2",
     "history": "4.7.2",
     "moment": "2.18.1",
     "node-sass": "4.5.3",
