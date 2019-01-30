@@ -17,10 +17,15 @@ https://firebase.google.com/?gclid=EAIaIQobChMI9ryUzbuW4AIVlYKyCh0wywbdEAAYASAAE
 After you have that up and running create a file with a name _.env.development_ in the root folder. The content of the file should be:
 
 `FIREBASE_API_KEY= your info from firebase
+
 FIREBASE_AUTH_DOMAIN=your info from firebase
+
 FIREBASE_DATABASE_URL=your info from firebase
+
 FIREBASE_PROJECT_ID=your info from firebase
+
 FIREBASE_STORAGE_BUCKET=your info from firebase
+
 FIREBASE_MESSAGING_SENDER_ID=your info from firebase`
 
 Next in the file _SpaMapContainer.js_ navigate to the bottom and replace the value for the _apiKey_ with your own which you need to obtain.
