@@ -1,9 +1,13 @@
 import React from 'react';
+import PlacesListLeftSide from "./PlaceListLeftSide";
+import SpaMapContainer from "./SpaMapContainer";
 
+//What will be rendered
 const DashboardPage = () => (
-  <div>
-    Dashboard page content
-  </div>
+    <div className='rowC'>
+        <SpaMapContainer/>
+        <PlacesListLeftSide/>
+    </div>
 );
 
 export default DashboardPage;

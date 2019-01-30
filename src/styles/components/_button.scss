@@ -8,12 +8,32 @@
   line-height: 1;
   padding: $s-size;
   text-decoration: none;
+  margin-right: 10px;
 }
 
 .button--link {
   background: none;
+  align-self: end;
+  margin-left: 10px;
 }
 
 .button--secondary {
   background: #888;
 }
+
+.button--add{
+  border-radius: 5px;
+  width: 100%;
+  background: $blue;
+  border: none;
+  color: white;
+  display: inline-block;
+  font-size: $font-size-large;
+  font-weight: 300;
+  line-height: 1;
+  padding: $s-size;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+

@@ -1,7 +1,7 @@
 .form {
   display: flex;
   flex-direction: column;
-  >* {
+  > * {
     margin-bottom: $m-size;
   }
 }
@@ -9,4 +9,9 @@
 .form__error {
   margin: 0 0 $m-size 0;
   font-style: italic;
+}
+
+.form-input {
+  border-radius: 6px;
+  height: 40px;
 }

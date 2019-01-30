@@ -1,5 +1,10 @@
 .content-container {
-  margin: 0 auto;
+  margin: 0;
   padding: 0 $m-size;
   max-width: 80rem;
+
+}
+.rowC{
+  display:flex;
+  flex-direction:row;
 }

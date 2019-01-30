@@ -4,6 +4,12 @@
   font-size: $font-size-large;
   font-weight: 300;
   padding: $s-size;
+  border-radius: 10px;
+  display: block;
+  margin: 7px auto 10px;
+  width: 50%;
+  align-self: center;
+  align-items: center;
 }
 
 .select {

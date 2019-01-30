@@ -1,5 +1,6 @@
 .header {
-  background: $dark-blue;
+  background: #5a94af;
+  margin: 0;
 }
 
 .header__content {
@@ -12,7 +13,9 @@
 .header__title {
   color: white;
   text-decoration: none;
+
   h1 {
     margin: 0;
   }
+ margin-left: 10px;
 }

@@ -5,10 +5,10 @@ import { startLogout } from '../actions/auth';
 
 export const Header = ({ startLogout }) => (
   <header className="header">
-    <div className="content-container">
+    <div className="header">
       <div className="header__content">
         <Link className="header__title" to="/dashboard">
-          <h1>Boilerplate</h1>
+          <h1>Stockholm tourist assistant</h1>
         </Link>
         <button className="button button--link" onClick={startLogout}>Logout</button>
       </div>
