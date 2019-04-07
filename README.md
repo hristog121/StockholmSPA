@@ -1,5 +1,5 @@
 # Google Maps API 
-**Task for KUMPAN - Stockholm**
+
 
 This is a web application that allows users to add places to a list from a Google Map. 
 
